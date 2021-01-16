@@ -1,2 +1,2 @@
 # git-github
-repository for practice
+This repository is for practice
